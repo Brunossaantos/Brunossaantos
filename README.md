@@ -32,14 +32,3 @@ Tenho facilidade em atuar tanto no desenvolvimento de soluções quanto no supor
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Brunossaantos&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&theme=radical)  
-
----
-
-### 🚀 Projetos em Destaque  
-
-<a href="https://github.com/Brunossaantos/Termos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunossaantos&repo=Termos&theme=radical" />
-</a>  
-<a href="https://github.com/Brunossaantos/OutroProjeto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunossaantos&repo=OutroProjeto&theme=radical" />
-</a>  
