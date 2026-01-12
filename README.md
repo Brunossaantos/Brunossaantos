@@ -1,28 +1,46 @@
-# Bruno Santos de Carvalho  
+# 👨‍💻 Bruno Santos de Carvalho
 
-**Desenvolvimento / Suporte** 🖥️  
+**Desenvolvimento de Sistemas | Automação de Processos | Integrações**
 
-Me chamo Bruno, sou formado em **Análise e Desenvolvimento de Sistemas**.  
-Atuo na área de **Desenvolvimento e Suporte Técnico**, com experiência em **PHP, Java, TailwindCSS, JavaScript**, além de conhecimentos em **Redes, Hardware, Software** e **Suporte Remoto**.  
-Tenho facilidade em atuar tanto no desenvolvimento de soluções quanto no suporte técnico, sempre visando a eficiência e a qualidade.  
+Sou desenvolvedor com foco em **automação de processos e integração de sistemas**, atuando na criação e manutenção de **soluções web e fluxos automatizados** que reduzem tarefas manuais, aumentam a produtividade e melhoram a confiabilidade das operações.
 
----
-
-### 📫 Contato  
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995103156)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunossaantos@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunossaantos)  
+Atuo principalmente com **back-end em PHP**, front-end web, **integração com bancos de dados e APIs**, além de automações de processos internos.  
+Minha base em **suporte técnico e infraestrutura** garante soluções mais estáveis, seguras e aderentes ao ambiente corporativo.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas  
+## 🚀 Principais Atividades
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>  
+- Desenvolvimento e manutenção de sistemas web  
+- Automação de processos e fluxos internos  
+- Integração de sistemas e bancos de dados  
+- Otimização e evolução de sistemas existentes  
+- Suporte técnico como base para soluções robustas  
 
 ---
 
-### 📊 Estatísticas  
+## ⚙️ Tecnologias e Ferramentas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Brunossaantos&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&theme=radical)  
+**Back-end / Web**  
+PHP · JavaScript · HTML · CSS · TailwindCSS  
+
+**Automação / Integrações**  
+Automação de Processos · Integração de Dados  
+
+**Infra / Suporte**  
+Windows 10/11 · Redes · Suporte Técnico · Ambientes Corporativos  
+
+---
+
+## 📫 Contato
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995103156)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunossaantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunossaantos)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunossaantos&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&theme=radical)
