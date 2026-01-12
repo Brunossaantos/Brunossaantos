@@ -42,5 +42,4 @@ Windows 10/11 · Redes · Suporte Técnico · Ambientes Corporativos
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunossaantos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&theme=radical&hide=html,css&exclude_repo=repo1,repo2)
