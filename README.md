@@ -85,12 +85,12 @@ Gosto de entender a operação antes de escrever código. Nos meus repositórios
   <img
     width="49%"
     alt="Estatísticas do GitHub"
-    src="https://github-readme-stats.vercel.app/api?username=Brunossaantos&show_icons=true&hide_border=true&bg_color=070B14&title_color=7DB5ED&text_color=CDD8E5&icon_color=5BA9E8&ring_color=5BA9E8"
+    src="https://github-stats-extended.vercel.app/api?username=Brunossaantos&show_icons=true&hide_border=true&bg_color=070B14&title_color=7DB5ED&text_color=CDD8E5&icon_color=5BA9E8&ring_color=5BA9E8"
   />
   <img
     width="49%"
     alt="Linguagens mais presentes nos repositórios"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&langs_count=6&hide_border=true&bg_color=070B14&title_color=7DB5ED&text_color=CDD8E5"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Brunossaantos&layout=compact&langs_count=6&hide_border=true&bg_color=070B14&title_color=7DB5ED&text_color=CDD8E5"
   />
 </p>
 
