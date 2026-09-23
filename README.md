@@ -138,49 +138,6 @@ Gosto de entender a operação antes de escrever código. Nos meus repositórios
   </picture>
 </p>
 
-<details>
-  <summary><strong>Ativar a cobra de contribuições</strong></summary>
-
-  <br>
-
-  No repositório `Brunossaantos/Brunossaantos`, crie o arquivo
-  `.github/workflows/snake.yml` com o conteúdo abaixo. Depois execute
-  **Actions → Snake contributions → Run workflow** uma vez.
-  As atualizações seguintes serão diárias.
-
-  ```yaml
-  name: Snake contributions
-
-  on:
-    schedule:
-      - cron: "20 3 * * *"
-    workflow_dispatch:
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Gerar SVGs
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: Brunossaantos
-            outputs: |
-              dist/github-snake.svg?color_snake=#1769AA&color_dots=#EBF3FA,#B9DBF3,#83BCE4,#418FCC,#1769AA
-              dist/github-snake-dark.svg?palette=github-dark&color_snake=#7DB5ED&color_dots=#111827,#19334E,#23547C,#327CAF,#5BA9E8
-
-        - name: Publicar na branch output
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
-</details>
-
 ---
 
 <p align="center">
