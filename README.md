@@ -109,7 +109,7 @@ Gosto de entender a operação antes de escrever código. Nos meus repositórios
     <img
       width="100%"
       alt="Gráfico de atividade no GitHub"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Brunossaantos&bg_color=070B14&color=CDD8E5&line=5BA9E8&point=FFFFFF&area=true&area_color=1769AA&hide_border=true"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunossaantos&theme=github_dark"
     />
   </p>
 </details>
@@ -121,7 +121,7 @@ Gosto de entender a operação antes de escrever código. Nos meus repositórios
     <img
       width="100%"
       alt="Troféus do perfil no GitHub"
-      src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=Brunossaantos&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"
+      src="https://trophy.ryglcloud.net/?username=Brunossaantos&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"
     />
   </p>
 </details>
